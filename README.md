@@ -23,19 +23,7 @@ Skilled in developing web applications using Laravel, a PHP framework known for 
 Experienced in writing front-end code using TypeScript, enhancing the development of interactive and dynamic web applications with improved type safety.
 
 # **Projects**
-
-## **E-Commerce Platform (C#, ASP.NET Core)**
-A full-fledged e-commerce platform enabling users to browse products, add them to the cart, and complete secure transactions.
-
-## **Task Management App (ASP.NET CORE)**
-Developed a task management application with features for creating, updating, and organizing tasks, ensuring efficient workflow management.
-
-## **Real-time Chat Application (Laravel)**
-Implemented a real-time chat application using WebSocket technology, allowing users to engage in instant messaging with a responsive UI.
-
-## **Edu Tech Application (Laravel)**
-this platform goes beyond the limitations of physical classrooms. Through live class sessions, learners can collaborate with peers on group projects, share ideas, and work together on assignments, regardless of geographical barriers.
-
+feel free to check out my repository
 
 ## **Contact Me**
 Feel free to reach out if you're interested in collaborating or discussing any software development opportunities. You can contact me at solomonyusufolayinka@gmail.com.
