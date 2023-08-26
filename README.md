@@ -1,4 +1,4 @@
-#### **Solomon Yusuf - Software Engineer**
+## **Solomon Yusuf - Software Engineer**
 
 ## **Introduction**
 Hello there! I'm Solomon Yusuf, a passionate and experienced software developer with a track record of 3 years in the industry. My expertise spans across multiple technologies including C#, Laravel, and TypeScript. I am deeply enthusiastic about coding and creating efficient, reliable, and user-centric software solutions. This README provides a brief overview of my skills, experience, and the value I bring to the world of software development.
@@ -12,12 +12,15 @@ Implemented RESTful APIs and integrated third-party services to enhance applicat
 Collaborated with UI/UX designers to implement responsive and visually appealing front-end designs.
 Integrated backend services with front-end interfaces to deliver seamless and efficient web applications.
 
-## **Expertise**
-# **C# and .NET:** Proficient in building desktop and web applications using C# and the .NET framework. Experienced in creating robust and scalable solutions with a focus on performance optimization.
+##**Expertise**
+# **C# and .NET:** 
+Proficient in building desktop and web applications using C# and the .NET framework. Experienced in creating robust and scalable solutions with a focus on performance optimization.
 
-# **Laravel:** Skilled in developing web applications using Laravel, a PHP framework known for its elegant syntax and powerful features. Capable of building complex web solutions with clean and maintainable code.
+# **Laravel:** 
+Skilled in developing web applications using Laravel, a PHP framework known for its elegant syntax and powerful features. Capable of building complex web solutions with clean and maintainable code.
 
-# **TypeScript:** Experienced in writing front-end code using TypeScript, enhancing the development of interactive and dynamic web applications with improved type safety.
+# **TypeScript:**
+Experienced in writing front-end code using TypeScript, enhancing the development of interactive and dynamic web applications with improved type safety.
 
 ## **Projects**
 # **E-Commerce Platform (C#, ASP.NET Core)**
