@@ -22,10 +22,7 @@ Skilled in developing web applications using Laravel, a PHP framework known for 
 ## **TypeScript:**
 Experienced in writing front-end code using TypeScript, enhancing the development of interactive and dynamic web applications with improved type safety.
 
-# **Projects**
-feel free to check out my repository
-
-## **Contact Me**
+# **Contact Me**
 Feel free to reach out if you're interested in collaborating or discussing any software development opportunities. You can contact me at solomonyusufolayinka@gmail.com.
 
 Let's connect and make technology work for us!
