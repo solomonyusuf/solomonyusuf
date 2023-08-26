@@ -16,23 +16,24 @@ Integrated backend services with front-end interfaces to deliver seamless and ef
 ## **C# and .NET:** 
 Proficient in building desktop and web applications using C# and the .NET framework. Experienced in creating robust and scalable solutions with a focus on performance optimization.
 
-# **Laravel:** 
+## **Laravel:** 
 Skilled in developing web applications using Laravel, a PHP framework known for its elegant syntax and powerful features. Capable of building complex web solutions with clean and maintainable code.
 
-# **TypeScript:**
+## **TypeScript:**
 Experienced in writing front-end code using TypeScript, enhancing the development of interactive and dynamic web applications with improved type safety.
 
-## **Projects**
-# **E-Commerce Platform (C#, ASP.NET Core)**
+# **Projects**
+
+## **E-Commerce Platform (C#, ASP.NET Core)**
 A full-fledged e-commerce platform enabling users to browse products, add them to the cart, and complete secure transactions.
 
-# **Task Management App (Laravel)**
+## **Task Management App (Laravel)**
 Developed a task management application with features for creating, updating, and organizing tasks, ensuring efficient workflow management.
 
-# **Real-time Chat Application (Laravel)**
+## **Real-time Chat Application (Laravel)**
 Implemented a real-time chat application using WebSocket technology, allowing users to engage in instant messaging with a responsive UI.
 
-# **Contact Me**
+## **Contact Me**
 Feel free to reach out if you're interested in collaborating or discussing any software development opportunities. You can contact me at solomonyusufolayinka@gmail.com.
 
 Let's connect and make technology work for us!
