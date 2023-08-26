@@ -1,43 +1,37 @@
-- 👋 Hi, I’m @solomonyusuf
-- 👀 I’m interested in full stack development...
-- 🌱 I’m currently learning AI...
-- 💞️ I’m looking to collaborate on front-end, back-end, and desktop projects...
-- 📫 How to reach me ...
-- cyberbuildtech.web.app
-- +2348093723842
-<!---
-solomonyusuf/solomonyusuf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!DOCTYPE html>
-<html>
-<head>
-    <title>README - Solomon Yusuf</title>
-</head>
-<body>
-    <h1>About Me - Solomon Yusuf</h1>
-    <p>Hello there! I'm Solomon Yusuf, a software developer with 3 years of experience. I'm passionate about crafting clean and efficient code to build meaningful software solutions.</p>
-    
-    <h2>Skills</h2>
-    <ul>
-        <li>C#</li>
-        <li>Laravel</li>
-        <li>TypeScript</li>
-    </ul>
-    
-    <h2>Contact</h2>
-    <p>You can reach me at <a href="mailto:solomonyusufolayinka@gmail.com">solomonyusufolayinka@gmail.com</a>.</p>
-    
-    <h2>Experience</h2>
-    <p>I have worked on a variety of projects over the past 3 years, honing my skills in software development. From C# to Laravel and TypeScript, I've been involved in creating robust and innovative solutions.</p>
-    
-    <h2>Illustration</h2>
-    <p>Here's an image illustrating me in action:</p>
-    <img src="https://example.com/programmer_coding.jpg" alt="Programmer Coding">
-    
-    <h2>Projects</h2>
-    <p>Feel free to check out some of my projects on my <a href="https://github.com/solomonyusuf">GitHub profile</a>.</p>
-    
-   </p>
-</body>
-</html>
+Solomon Yusuf - Software Developer
+Programmer Coding
+
+Introduction
+Hello there! I'm Solomon Yusuf, a passionate and experienced software developer with a track record of 3 years in the industry. My expertise spans across multiple technologies including C#, Laravel, and TypeScript. I am deeply enthusiastic about coding and creating efficient, reliable, and user-centric software solutions. This README provides a brief overview of my skills, experience, and the value I bring to the world of software development.
+
+Experience
+Software Developer at CTGBridge Tech Solutions (2022 - Present)
+Collaborated with cross-functional teams to design, develop, and deploy software applications using C# and .NET framework.
+Led the migration of legacy systems to modern and scalable architectures, resulting in improved performance and maintainability.
+Participated in code reviews, providing constructive feedback and ensuring code quality and best practices.
+Implemented RESTful APIs and integrated third-party services to enhance application functionality.
+Collaborated with UI/UX designers to implement responsive and visually appealing front-end designs.
+Integrated backend services with front-end interfaces to deliver seamless and efficient web applications.
+
+Expertise
+C# and .NET: Proficient in building desktop and web applications using C# and the .NET framework. Experienced in creating robust and scalable solutions with a focus on performance optimization.
+
+Laravel: Skilled in developing web applications using Laravel, a PHP framework known for its elegant syntax and powerful features. Capable of building complex web solutions with clean and maintainable code.
+
+TypeScript: Experienced in writing front-end code using TypeScript, enhancing the development of interactive and dynamic web applications with improved type safety.
+
+Projects
+E-Commerce Platform (C#, ASP.NET Core)
+A full-fledged e-commerce platform enabling users to browse products, add them to the cart, and complete secure transactions.
+
+Task Management App (Laravel)
+Developed a task management application with features for creating, updating, and organizing tasks, ensuring efficient workflow management.
+
+Real-time Chat Application (Laravel)
+Implemented a real-time chat application using WebSocket technology, allowing users to engage in instant messaging with a responsive UI.
+
+Contact Me
+Feel free to reach out if you're interested in collaborating or discussing any software development opportunities. You can contact me at solomonyusufolayinka@gmail.com.
+
+Let's connect and make technology work for us!
+
