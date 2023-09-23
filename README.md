@@ -12,16 +12,6 @@ Implemented RESTful APIs and integrated third-party services to enhance applicat
 Collaborated with UI/UX designers to implement responsive and visually appealing front-end designs.
 Integrated backend services with front-end interfaces to deliver seamless and efficient web applications.
 
-# **Expertise**
-## **C# and .NET:** 
-Proficient in building desktop and web applications using C# and the .NET framework. Experienced in creating robust and scalable solutions with a focus on performance optimization.
-
-## **Laravel:** 
-Skilled in developing web applications using Laravel, a PHP framework known for its elegant syntax and powerful features. Capable of building complex web solutions with clean and maintainable code.
-
-## **TypeScript:**
-Experienced in writing front-end code using TypeScript, enhancing the development of interactive and dynamic web applications with improved type safety.
-
 # **Contact Me**
 Feel free to reach out if you're interested in collaborating or discussing any software development opportunities. You can contact me at solomonyusufolayinka@gmail.com.
 
